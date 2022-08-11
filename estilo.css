@@ -1,0 +1,7 @@
+.carousel-widget .flickity-slider .carousel-cell {
+    width: 100%;
+    text-align: center;
+    }
+    .carousel-widget .flickity-slider .carousel-cell img {
+    max-width: 100%;
+    }
